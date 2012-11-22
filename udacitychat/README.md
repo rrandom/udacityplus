@@ -11,7 +11,6 @@ It is part of the collaborative Udacity Plus project.
 - need to find a way to clear user after a certain amount of time if they did not connect (but did log in)
   - maybe at the login phase, check if user exists (if they are not connected and session is X seconds old, delete the old user)
 - remove arguments from XHR post (use jQuery's .ajax() function)
-- the Channel will expire after 2 hours, must add a reconnect feature
 - check syntax/format compliance on server side (yawn)
 
 ## Todos (not yet implemented features)
